@@ -368,6 +368,7 @@ You can also find cool projects or submit your own to the [faas-and-furious orga
 
 | Project name and description                                         | Author     | Site      | Date        |
 |----------------------------------------------------------------------|------------|-----------|-------------|
+| [OpenFaaS Java/Maven templates](https://github.com/matipan/openfaas-javamaven-template/) | Kamesh Chauhan | github.com | 16-May-2019 
 | [OpenFaaS Go 1.11 templates](https://github.com/matipan/openfaas-go111-template/) | Matias Pan | github.com | 15-May-2019 |
 | [OpenFaaS GoCV template](http://github.com/matipan/openfaas-gocv-template/) | Matias Pan | github.com | 16-Mar-2019 |
 | [OpenFaas CSharp MongoDB Template](https://github.com/Marcus-Smallman/csharp-kestrel-mongo) | Marcus Smallman | github.com | 28-Nov-2018 |
